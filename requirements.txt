@@ -1,0 +1,9 @@
+PyMuPDF
+python-docx
+openai
+python-dotenv
+crewai
+crewai-tools
+ipython
+fastapi
+uvicorn
